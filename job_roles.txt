@@ -1,0 +1,81 @@
+List of the job requirements for the 10 most IT job roles 
+AR/VR Developer:
+
+Proficiency in AR/VR frameworks and tools (e.g., Unity, Unreal Engine).
+Strong understanding of 3D graphics and UI/UX design principles.
+Experience with programming languages like C#, C++, or JavaScript.
+Knowledge of computer vision, spatial mapping, and gesture recognition.
+Familiarity with AR/VR hardware and devices.
+
+Full Stack Developer:
+
+Proficiency in front-end technologies (HTML, CSS, JavaScript) and frameworks (React, Angular, Vue.js).
+Strong knowledge of back-end languages and frameworks (Node.js, Python, Django, Ruby on Rails).
+Experience with databases (SQL, NoSQL), RESTful APIs, and version control systems (Git).
+Familiarity with cloud platforms and deployment tools.
+Understanding of web security and performance optimization.
+
+Blockchain Developer:
+
+Solid understanding of blockchain fundamentals and decentralized systems.
+Proficiency in programming languages like Solidity, JavaScript, or Go.
+Experience with blockchain frameworks (Ethereum, Hyperledger) and smart contract development.
+Knowledge of cryptographic algorithms, consensus mechanisms, and decentralized application (DApp) development.
+Understanding of token standards (ERC-20, ERC-721) and blockchain scalability solutions.
+
+Cloud Architect:
+
+Expertise in cloud platforms like AWS, Azure, or GCP.
+Strong knowledge of cloud architecture, including networking, security, and scalability.
+Proficiency in infrastructure as code (IaC) tools like Terraform or CloudFormation.
+Experience with containerization and orchestration technologies (Docker, Kubernetes).
+Understanding of serverless computing and cloud-native architectures.
+
+IoT Solution Architect:
+
+Deep understanding of IoT protocols and connectivity (MQTT, CoAP, LoRaWAN).
+Proficiency in IoT platforms and frameworks (AWS IoT, Azure IoT, Google Cloud IoT).
+Strong knowledge of edge computing, device management, and data analytics.
+Experience with sensor technologies, IoT security, and privacy considerations.
+Familiarity with machine learning for IoT data analysis and predictive maintenance.
+
+AI/ML Architect:
+
+Extensive knowledge of machine learning algorithms, deep learning frameworks (TensorFlow, PyTorch), and neural networks.
+Strong programming skills in Python, R, or Scala.
+Experience with data preprocessing, feature engineering, and model evaluation techniques.
+Proficiency in big data processing frameworks (Hadoop, Spark) and cloud-based ML platforms.
+Understanding of ethical considerations, explainable AI, and responsible AI practices.
+
+Machine Learning Engineer:
+
+Proficiency in Python and libraries like scikit-learn, pandas, and NumPy.
+Strong understanding of machine learning algorithms and model development.
+Experience with data preprocessing, feature selection, and model optimization.
+Knowledge of deep learning frameworks (TensorFlow, Keras, PyTorch) and neural networks.
+Understanding of evaluation metrics, cross-validation, and deployment of ML models.
+
+Big Data Engineer:
+
+Expertise in big data processing frameworks like Hadoop, Spark, or Apache Flink.
+Strong programming skills in languages like Java, Scala, or Python.
+Experience with data ingestion, ETL (Extract, Transform, Load) processes, and data warehousing.
+Knowledge of distributed systems, data streaming, and real-time analytics.
+Familiarity with cloud-based big data services (AWS EMR, Google Cloud Dataproc).
+
+DevOps Engineer:
+
+Proficiency in configuration management tools 
+Proficiency in configuration management tools (e.g., Ansible, Puppet, Chef) for infrastructure automation.
+Strong knowledge of containerization technologies like Docker and container orchestration platforms like Kubernetes.
+Experience with continuous integration and deployment (CI/CD) pipelines using tools like Jenkins or GitLab.
+Familiarity with cloud platforms (AWS, Azure, GCP) and infrastructure-as-code (IaC) practices.
+Understanding of monitoring and logging tools (Prometheus, ELK stack) for system observability.
+
+Data Scientist:
+
+Proficiency in programming languages like Python or R for data analysis and statistical modeling.
+Strong knowledge of machine learning algorithms, data mining, and predictive modeling techniques.
+Experience with data visualization tools (Tableau, matplotlib, ggplot) for presenting insights.
+Familiarity with big data technologies (Hadoop, Spark) and distributed computing.
+Understanding of databases (SQL, NoSQL) and data manipulation techniques."
