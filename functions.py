@@ -35,7 +35,7 @@ def convert_pdf_to_txt_file(path):
 @st.cache_data
 def getresponse(text):
   jobs = 'job_roles.txt'
-  openai.api_key = "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"
+  openai.api_key = "" #insert api key
   prompt = f"You are an expert Computer science job interviewer(FAANG level), I will give 10 most demading jobs list and their requirement dont generate anything  , then I'll give the resume of the candidate to be interviewed .Compare the resume give your reviews about the candidate for the role and also give score of matching out of 10 (in new line) . For the most relevant job for the candidate . And generate 10 interview technical questons according to the role and the resume , also include 2 DSA coding question , medium dificulty question"
 
   with open(jobs,'r') as text_file :
